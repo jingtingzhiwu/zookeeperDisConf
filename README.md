@@ -7,3 +7,4 @@ saver客户端：控制版本或分支更新
 实现自动更新，而不是手动pull或定时pull
 
 比disconf和淘宝Diamon更轻量
+![image](https://github.com/jingtingzhiwu/zookeeperDisConf/blob/master/src/main/resources/snapshot.png)
